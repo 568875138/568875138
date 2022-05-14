@@ -11,6 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=568875138&show_icons=true&count_private=true" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=568875138&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=568875138&layout=compact&langs_count=10" />
   </td>
 </tr>
