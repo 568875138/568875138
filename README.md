@@ -2,6 +2,15 @@
 
 - 💬 Ask me anything.
 
-![奚玉帆 GitHub stats](https://github-readme-stats.vercel.app/api?username=568875138&theme=default&show_icons=true)
+![](https://komarev.com/ghpvc/?username=568875138)
+![GitHub followers](https://img.shields.io/github/followers/568875138?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/568875138?style=social)
 
-![奚玉帆 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=568875138&layout=compact&langs_count=100)
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=568875138&show_icons=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=568875138&layout=compact" />
+  </td>
+</tr>
